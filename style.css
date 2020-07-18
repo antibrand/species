@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+Theme Name: child
+Template: theme
+Theme URI: https://github.com/antibrand/child
+Author:
+Author URI:
+Description: Starter child theme for the default website management theme.
+Version: 1.0.0
+Text Domain: antibrand
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+/**
+ * This theme enqueues a minified stylesheet compiled from SASS (.scss) files.
+ *
+ * This stylesheet only contains the above theme header that is necessary for theme activation.
+ *
+ * DO NOT delete this stylesheet!
+ */
